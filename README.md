@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Acevedo. I am an educator turned fullstack developer.
   
-- 👀 I’m interested in using my knowledge of mathematics education along with techinical coding skills to create helpful educational softwares.
+- 👀 I’m interested in using my experience in education along with techinical coding skills to work collabortatively on quality projects.
   
 - 🌱 I’m currently learning Python, MERN, and Java at Coding Dojo.
   
